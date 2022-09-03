@@ -23,19 +23,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-```bash
-pip list
-
-# out put
-
-Package       Version
-------------- -------
-pip           20.0.2
-pkg-resources 0.0.0
-pygame        2.1.2
-setuptools    44.0.0
-```
-
 ## ✍ Usage
 
 ```python
