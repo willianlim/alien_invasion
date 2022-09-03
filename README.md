@@ -4,7 +4,7 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/willianlim/get_next_line
+git clone https://github.com/willianlim/alien_invasion.git
 ```
 
 ```bash
