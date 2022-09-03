@@ -8,6 +8,10 @@ git clone https://github.com/willianlim/alien_invasion.git
 ```
 
 ```bash
+cd alien_invasion
+```
+
+```bash
 python3 -m venv venv
 ```
 
@@ -17,6 +21,19 @@ source venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
+```
+
+```bash
+pip list
+
+# out put
+
+Package       Version
+------------- -------
+pip           20.0.2
+pkg-resources 0.0.0
+pygame        2.1.2
+setuptools    44.0.0
 ```
 
 ## ✍ Usage
